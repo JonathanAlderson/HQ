@@ -13,7 +13,7 @@ solving and edge cases. It was also fun to write with a strict time requirement.
 
 I didn't use this bot in real games. 
 
-![1](/example.PNG)
-![2](/question.PNG)
-![3](/result_bw.PNG)
+![1](/example.png)
+![2](/question.png)
+![3](/result_bw.png)
 
